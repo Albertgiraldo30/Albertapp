@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694997490278",
+    "project_id": "albertoapp-43d8d",
+    "storage_bucket": "albertoapp-43d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694997490278:android:1e43832c8ec58944a2aba7",
+        "android_client_info": {
+          "package_name": "com.albertoochoa.albertoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnetWMJBC11uBeX65MgCo_9Q-VyxVM8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
